@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     margin: 0px;
     padding: 0px;
@@ -39,3 +40,46 @@ button:hover{
 }
 
 
+=======
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(livre.jpg) no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20%;
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+
+input{
+    background-color: rgb(35, 81, 90);
+    margin: 12px 15px;
+    border: none;
+    padding: 10px 0;
+    align-items: center;
+    text-align: center;
+    color: white;
+    
+
+}
+button{
+    border-radius: 50px;
+    font-size: 16px;
+    margin-top: 24px;
+    padding: 16px 32px;
+    border-color: black;
+    transition: 0.2s;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+>>>>>>> c691b59 (j'ai apportée des modification au niveau du script pour la validation du formulaire et ajouter un fichier page2)
